@@ -24,3 +24,5 @@ Search :- People wants read article they can search and also display the article
 
 
 Technology :- HTML ,CSS, JavaScript
+Using Web services of project is :-
+  Azure web app :all three app types share the App Service runtime, you can host a website, support mobile clients, and expose your APIs in Azure, all from the same project or solution. Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets that's why i am usnig azure web app service.
