@@ -27,3 +27,4 @@ Technology :- HTML ,CSS, JavaScript
 
 This project Using Azure services: 
 *Azure web app :all three app types share the App Service runtime, you can host a website, support mobile clients, and expose your APIs in Azure, all from the same project or solution. Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets that's why i am usnig azure web app service.
+# project url : https://responsiveblogtemplates1.azurewebsites.net
